@@ -1,0 +1,48 @@
+.lala{
+    background-color: rgb(84, 81, 81);
+    color: white;
+    height: 100%;
+}
+
+.imgmy{
+    width: auto;
+    height: 120px;
+    border-radius: 50%;
+    box-shadow: 2px 2px 10px 7px rgb(93, 91, 91);
+   
+}
+
+.image_div{
+    display: flex;
+    justify-content: center;
+    margin: 25px;
+}
+
+
+.topdetiels{
+    display: flex;
+    justify-content: center;
+    
+
+}
+
+.myName{
+    text-align: center;
+    font-size: 30px;
+}
+
+.social_media_link{
+display: flex;
+gap: 20px;
+padding: 10px;
+justify-content: center;
+}
+.icon{
+   list-style-type: none;
+   padding: 20px;
+   font-weight: 600;
+}
+
+.icon_div{
+    padding: 13px;
+}
